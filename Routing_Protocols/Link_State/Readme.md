@@ -1,0 +1,1 @@
+Link-state routing algorithm to calculate shortest paths for each node that prints intermediate steps and the final forwarding tables.
